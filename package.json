@@ -1,0 +1,25 @@
+{
+  "name": "joy-plus-ui",
+  "version": "0.0.1",
+  "description": "Joy Plus UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gojoychain/joy-plus-ui.git"
+  },
+  "keywords": [
+    "joy",
+    "plus",
+    "ui",
+    "wallet"
+  ],
+  "author": "Deric Walintukan <deric@bodhi.network>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gojoychain/joy-plus-ui/issues"
+  },
+  "homepage": "https://github.com/gojoychain/joy-plus-ui#readme"
+}
